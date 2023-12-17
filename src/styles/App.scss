@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+// sass me hume python ki indentation jaisa karke styles likhna padta hai 
+// its scss isme hum block '{}' curly bracket use karke kar sakte hai and isme hum nesting bhi kar sakte hai. and the thing is ki dono same hi h bas likhne ka way alag hai
+// sass or scss me hum variables bana sakte hai 
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
