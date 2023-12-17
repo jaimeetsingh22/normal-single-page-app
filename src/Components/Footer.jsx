@@ -11,9 +11,9 @@ const Footer = () => {
         <div>
             <h5>Follow Us</h5>
             <div>
-                <a href="#" target='_blank'>Facebook</a>
-                <a href="#" target='_blank'>Instagram</a>
-                <a href="#" target='_blank'>GitHub</a>
+                <a href="https://www.facebook.com/jaimeet.singh.374" target='_blank'>Facebook</a>
+                <a href="https://www.instagram.com/jaimeet.s/" target='_blank'>Instagram</a>
+                <a href="https://www.github.com/jaimeetsingh22/" target='_blank'>GitHub</a>
             </div>
         </div>
     </footer>
